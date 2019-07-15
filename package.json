@@ -1,0 +1,14 @@
+{
+  "name": "jsporject",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Guillermo Aguirre",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^1.1.12"
+  }
+}

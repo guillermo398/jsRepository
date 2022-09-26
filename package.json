@@ -9,6 +9,6 @@
   "author": "Guillermo Aguirre",
   "license": "ISC",
   "dependencies": {
-    "nightwatch": "^1.1.12"
+    "nightwatch": "^1.7.13"
   }
 }
